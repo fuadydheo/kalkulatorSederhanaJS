@@ -1,0 +1,14 @@
+{
+  "name": "jstutorial",
+  "version": "1.0.0",
+  "description": "jstutorial",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fuadydheo",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.19.3"
+  }
+}
